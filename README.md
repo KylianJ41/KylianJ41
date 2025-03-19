@@ -1,4 +1,4 @@
-# Hello, I'm [Kylian] 👋
+# Hello, I'm Kylian 👋
 
 ## 🔧 Automation & Systems Specialist
 
