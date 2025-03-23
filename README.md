@@ -6,8 +6,8 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 
 [![techstack Python](https://readme-components.vercel.app/api?component=logo&logo=python&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack Go](https://readme-components.vercel.app/api?component=logo&logo=go&size=small)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=shell&size=small)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=unix&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell&size=small&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)](https://github.com/harish-sethuraman/readme-components)
 [![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=c++&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack Java](https://readme-components.vercel.app/api?component=logo&logo=java&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack typescript](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
