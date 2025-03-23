@@ -4,14 +4,14 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 
 ## Stack
 
-[![techstack Python](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Go](https://readme-components.vercel.app/api?component=logo&logo=go)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=bash)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell)](https://github.com/harish-sethuraman/readme-components)
-[![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=cpp)](https://github.com/harish-sethuraman/readme-components)
-[![techstack Java](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Python](https://readme-components.vercel.app/api?component=logo&logo=python&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Go](https://readme-components.vercel.app/api?component=logo&logo=go&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=shell&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=cpp&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Java](https://readme-components.vercel.app/api?component=logo&logo=java&size=small)](https://github.com/harish-sethuraman/readme-components)
 
-## 🌱 Current Focus
+## Current Focus
 
-- Building automation solutions for [specific area you're working on]
-- Currently exploring [Distributed systems and Competitive Programming]
+- Building automation solutions for work-specific and personal environments
+- Currently exploring Distributed systems and Competitive Programming
