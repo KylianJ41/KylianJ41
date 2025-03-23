@@ -4,14 +4,12 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 
 ## Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+[![techstack Python](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Go](https://readme-components.vercel.app/api?component=logo&logo=go)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=bash)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell)](https://github.com/harish-sethuraman/readme-components)
+[![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=cpp)](https://github.com/harish-sethuraman/readme-components)
+[![techstack Java](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
 
 ## 🌱 Current Focus
 
