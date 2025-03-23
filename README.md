@@ -8,8 +8,9 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 [![techstack Go](https://readme-components.vercel.app/api?component=logo&logo=go&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack Bash](https://readme-components.vercel.app/api?component=logo&logo=shell&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack Powershell](https://readme-components.vercel.app/api?component=logo&logo=powershell&size=small)](https://github.com/harish-sethuraman/readme-components)
-[![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=cpp&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack C++](https://readme-components.vercel.app/api?component=logo&logo=c++&size=small)](https://github.com/harish-sethuraman/readme-components)
 [![techstack Java](https://readme-components.vercel.app/api?component=logo&logo=java&size=small)](https://github.com/harish-sethuraman/readme-components)
+[![techstack typescript](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
 
 ## Current Focus
 
