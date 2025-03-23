@@ -17,4 +17,3 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 - Building automation solutions for work-specific and personal environments
 - Currently exploring Distributed systems and Competitive Programming
 
-![GitHub contribution grid snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
