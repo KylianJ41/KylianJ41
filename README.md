@@ -16,4 +16,4 @@ I'm an automation and systems enthusiast based in **Paris, France**. I love work
 
 - Building automation solutions for work-specific and personal environments
 - Currently exploring Distributed systems and Competitive Programming
-
+- Side quest : Discovering the open source world and starting to contribute to projects!
